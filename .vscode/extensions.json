@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "nhedger.inertia",
+        "yoavbls.pretty-ts-errors",
+        "vue.volar",
+        "editorconfig.editorconfig",
+        "jripouteau.adonis-vscode-extension"
+    ]
+}
