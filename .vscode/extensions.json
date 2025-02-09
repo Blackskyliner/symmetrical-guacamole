@@ -6,6 +6,7 @@
         "vue.volar",
         "editorconfig.editorconfig",
         "jripouteau.adonis-vscode-extension",
-        "bradlc.vscode-tailwindcss"
+        "bradlc.vscode-tailwindcss",
+        "adonisjs.vscode-edge"
     ]
 }
