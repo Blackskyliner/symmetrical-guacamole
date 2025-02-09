@@ -1,12 +1,11 @@
 @import url('https://fonts.bunny.net/css?family=instrument-sans:400,400i,500,500i,600,600i,700,700i');
-@import "tailwindcss";
+@import 'tailwindcss';
 
 @source "../pages";
 @source "../../resources/views";
 
-
 @theme {
-  --color-primary: #5A45FF;
+  --color-primary: #5a45ff;
   --color-sand-1: #fdfdfc;
   --color-sand-2: #f9f9f8;
   --color-sand-3: #f1f0ef;

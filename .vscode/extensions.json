@@ -8,6 +8,8 @@
         "jripouteau.adonis-vscode-extension",
         "bradlc.vscode-tailwindcss",
         "adonisjs.vscode-edge",
-        "antfu.iconify"
+        "antfu.iconify",
+        "jripouteau.japa-vscode",
+        "esbenp.prettier-vscode"
     ]
 }
