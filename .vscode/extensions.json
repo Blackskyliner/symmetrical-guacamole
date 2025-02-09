@@ -5,6 +5,7 @@
         "yoavbls.pretty-ts-errors",
         "vue.volar",
         "editorconfig.editorconfig",
-        "jripouteau.adonis-vscode-extension"
+        "jripouteau.adonis-vscode-extension",
+        "bradlc.vscode-tailwindcss"
     ]
 }
