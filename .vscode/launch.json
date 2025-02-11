@@ -14,8 +14,9 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Dev server",
-            "program": "${workspaceFolder}/ace.js",
+            "name": "AdonisJS Dev-Server",
+            "program": "ace.js",
+            "cwd": "${workspaceFolder}/my-adonisjs-app",
             "args": [
                 "serve",
                 "--hmr"
@@ -27,8 +28,9 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Tests",
-            "program": "${workspaceFolder}/ace.js",
+            "name": "AdonisJS Test-Server",
+            "program": "ace.js",
+            "cwd": "${workspaceFolder}/my-adonisjs-app",
             "args": [
                 "test",
                 "--watch"
@@ -36,6 +38,6 @@
             "skipFiles": [
                 "<node_internals>/**"
             ]
-        }
+        },
     ]
 }
