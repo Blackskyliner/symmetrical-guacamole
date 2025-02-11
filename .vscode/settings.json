@@ -17,4 +17,13 @@
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
+  "sqltools.useNodeRuntime": true,
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "./my-adonisjs-app/tmp/db.sqlite3",
+      "name": "Dev DB"
+    }
+  ],
 }

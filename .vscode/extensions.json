@@ -9,6 +9,8 @@
         "bradlc.vscode-tailwindcss",
         "adonisjs.vscode-edge",
         "antfu.iconify",
-        "jripouteau.japa-vscode"
+        "jripouteau.japa-vscode",
+        "mtxr.sqltools",
+        "mtxr.sqltools-driver-sqlite"
     ]
 }
