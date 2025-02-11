@@ -9,7 +9,6 @@
         "bradlc.vscode-tailwindcss",
         "adonisjs.vscode-edge",
         "antfu.iconify",
-        "jripouteau.japa-vscode",
-        "esbenp.prettier-vscode"
+        "jripouteau.japa-vscode"
     ]
 }

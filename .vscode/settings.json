@@ -4,7 +4,9 @@
     "source.fixAll.eslint": "explicit"
   },
   "editor.formatOnSaveMode": "file",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "eslint.codeActionsOnSave.mode": "all",
+  "eslint.workingDirectories": ["./my-adonisjs-app"],
   "github.copilot.chat.commitMessageGeneration.instructions": [
     {
       "text": "Use gitmoji to describe your changes. For example, :bug: for bug fixes, :sparkles: for new features, and :recycle: for refactors."
