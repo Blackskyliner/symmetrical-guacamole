@@ -6,10 +6,15 @@
   "editor.formatOnSaveMode": "file",
   "editor.defaultFormatter": "dbaeumer.vscode-eslint",
   "eslint.codeActionsOnSave.mode": "all",
-  "eslint.workingDirectories": ["./my-adonisjs-app"],
+  "eslint.workingDirectories": [
+    "./my-adonisjs-app"
+  ],
   "github.copilot.chat.commitMessageGeneration.instructions": [
     {
       "text": "Use gitmoji to describe your changes. For example, :bug: for bug fixes, :sparkles: for new features, and :recycle: for refactors."
     }
-  ]
+  ],
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
 }
