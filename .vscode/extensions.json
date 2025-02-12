@@ -11,6 +11,8 @@
         "antfu.iconify",
         "jripouteau.japa-vscode",
         "mtxr.sqltools",
-        "mtxr.sqltools-driver-sqlite"
+        "mtxr.sqltools-driver-sqlite",
+        "timonwong.shellcheck",
+        "foxundermoon.shell-format"
     ]
 }

@@ -26,4 +26,7 @@
       "name": "Dev DB"
     }
   ],
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
 }
