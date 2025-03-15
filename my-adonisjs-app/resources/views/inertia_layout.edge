@@ -9,6 +9,7 @@
     AdonisJS x Inertia x VueJS
   </title>
 
+  @vite(['resources/css/app.css'])
   @vite(['inertia/app/app.ts', `inertia/pages/${page.component}.vue`])
   @inertiaHead()
   @stack('dumper')
