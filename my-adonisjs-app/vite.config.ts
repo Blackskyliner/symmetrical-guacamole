@@ -13,7 +13,7 @@ export default defineConfig({
     adonisjs({
       entrypoints: ['inertia/app/app.ts'],
       reload: ['resources/views/**/*.edge'],
-      buildDirectory: 'dist',
+      buildDirectory: 'public',
     }),
   ],
 
